@@ -1,4 +1,4 @@
-# Watermark_PDF
+# Watermarking PDF
 PDF Watermarking Script
 
 # PDF Watermarking Script
