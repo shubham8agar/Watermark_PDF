@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 from PyPDF2 import PdfReader, PdfWriter
 from reportlab.lib.pagesizes import A4
