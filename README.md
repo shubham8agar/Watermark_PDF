@@ -22,3 +22,4 @@ You can install these libraries using pip:
 
 ```bash
 pip install PyPDF2 reportlab
+python watermark.py
